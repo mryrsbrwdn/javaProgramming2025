@@ -1,6 +1,6 @@
 package Javaclasses;
 
-public class Main {
+public class  {
 
 String name;
 String brand;
